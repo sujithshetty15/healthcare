@@ -1,0 +1,22 @@
+/* ContactForm.css */
+
+.form-container {
+    margin-top: 16px;
+    height: "100%";
+    margin-bottom: "10rem";
+    margin-top: 5;
+    margin-bottom: 5;
+
+}
+
+.text-field {
+    margin-bottom: 8px;
+}
+
+.submit-button {
+    background-color: #000;
+    color: #000;
+    &:hover {
+        background-color: #000;
+    }
+}
